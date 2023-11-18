@@ -19,9 +19,11 @@ const Hero = () => {
         Summrize Article with <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAl GPT-4</span>
       </h1>
-      <h2 className="desc">
-        any the are right now
+      <h2 className="desc w-full justify-center text-gray-800">
+      It's important to note that this is a speculative description based on the capabilities of previous GPT models. If GPT-4 or a similar model with such features has been released since my last update, you may want to check the official documentation or release notes for accurate information.
       </h2>
+      <h5 className="m-5 scale-y-90 mt-8 font-satoshi text-lg">Past URL Below</h5>
+      
     </header>
   );
 };
